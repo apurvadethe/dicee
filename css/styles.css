@@ -1,0 +1,43 @@
+body {
+  background-color: #1d3557;
+}
+
+/* Heading */
+h1 {
+  margin: 30px;
+  font-family: 'Anton', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #a3b18a;
+}
+
+/* Container */
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+p {
+  font-size: 2rem;
+  color: #757bc8;
+  font-family: 'Dancing Script', cursive;
+}
+
+/* Images */
+img {
+  width: 80%;
+}
+
+/* Footer */
+footer {
+  margin-top: 5%;
+  color: #b7b7a4;
+  text-align: center;
+  font-family: 'Red Hat Display', sans-serif;
+}
